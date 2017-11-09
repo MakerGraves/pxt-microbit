@@ -26,7 +26,7 @@ Empower Learning, Unleash Talent, and Lead a Culture of Creativity
 [![Innovator's Mindset Book Cover](/static/courses/csintro/references/innovators-mindset.jpg)](http://georgecouros.ca/blog/archives/5715)
 
 ### [The Big Book of Makerspace Projects](https://colleengraves.org/bigmakerbook/)
-by **Colleen Graves**
+by **Colleen Graves and Aaron Graves**
 
 Inspiring Makers to Experiment, Create, and Learn
 
